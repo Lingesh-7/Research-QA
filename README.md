@@ -109,26 +109,21 @@ SmartPaper-AI/
 │
 ├── agents/
 │   ├── graph.py
-│   ├── retriever.py
-│   └── critic.py
+│   ├── nodes.py
+│   
 │
 ├── parsers/
 │   ├── pdf_parser.py
-│   └── image_parser.py
+│  
 │
 ├── embeddings/
 │   ├── embedder.py
-│   └── vectorstore.py
+│   └── retriever.py
 │
 ├── models/
-│   ├── llm.py
-│   └── prompts.py
+│   ├── finetuned_reader.py
+│   
 │
-├── chroma_db/
-├── extracted_data/
-│   ├── images/
-│   ├── tables/
-│   └── texts/
 │
 ├── uploads/
 ├── static/
@@ -140,7 +135,6 @@ SmartPaper-AI/
 ├── Dockerfile
 └── README.md
 ```
-
 ---
 
 ## Getting Started
