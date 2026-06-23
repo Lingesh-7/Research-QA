@@ -3,7 +3,11 @@
 > Multi-Agent Multimodal Research Paper Assistant powered by RAG, LangGraph, Gemini, ChromaDB, and Fine-Tuned Phi-3.
 
 ---
-
+## Fine Tuned model:
+```
+https://huggingface.co/LINGESH-7/Phi-3-mini-4k-instruct-FT-ON-QASPER/tree/main
+```
+---
 ## Overview
 
 SmartPaper AI is an AI-powered research assistant that lets you upload academic papers and interact with them through natural language.
